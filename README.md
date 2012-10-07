@@ -1,0 +1,4 @@
+Scriptku
+========
+
+Script untuk blogku
